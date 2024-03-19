@@ -7,6 +7,7 @@ internal class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Novo!");
+        Console.WriteLine("LazaCoder2");
     }
 
     private string GetDebuggerDisplay()
