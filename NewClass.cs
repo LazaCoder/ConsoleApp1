@@ -5,3 +5,5 @@ class MyClass
         Console.log("Ja sam funkcija");
     }
 }
+int a =5;
+}
